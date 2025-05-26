@@ -1,6 +1,6 @@
 #  Calcolatore Classe di Sfida (CR) per D&D 5e
 
-Benvenuto nel **Calcolatore CR per Dungeons & Dragons 5a Edizione**, un'applicazione grafica scritta in Python con `tkinter`, progettata per aiutare i Dungeon Master a bilanciare gli incontri in base al numero e al livello dei personaggi giocanti.
+Benvenuto nel **Calcolatore CR per Dungeons & Dragons 5a Edizione**, un'applicazione grafica scritta in Python con `tkinter`, pensata per supportare i Dungeon Master nel bilanciamento degli incontri in base al numero e al livello dei personaggi giocanti.
 
 ##  Funzionalità
 
@@ -24,13 +24,13 @@ Clona questo repository e avvia lo script Python:
 
 ```bash
 git clone https://github.com/tuo-username/calcolatore_cr_dnd5e.git
-cd calcolatore-cr-dnd5e
+cd calcolatore_cr_dnd5e
 python calcolatore_cr.py
 ```
 
 ###  File principali
 
-calcolatore_cr.py – contiene tutta la logica del calcolo CR e l'interfaccia grafica.
+- calcolatore_cr.py – contiene tutta la logica del calcolo CR e l'interfaccia grafica.
 
 ###  Dettagli del calcolo
 
