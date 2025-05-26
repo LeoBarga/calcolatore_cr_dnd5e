@@ -86,7 +86,8 @@ def calcola_cr():
             f"Medio: {medio_scagn}\n"
             f"Difficile: {difficile_scagn}\n"
             f"Letale: {letale_scagn}\n\n"
-            "Nota: Questa CR è calcolata per un numero di scagnozzi uguale al numero di giocatori. "
+            "Nota: Questa CR è calcolata per un numero di scagnozzi uguale al numero di giocatori "
+            "e può essere un pò imprecisa a livelli molto bassi (1, 2, 3)."
             "Gli scagnozzi possono avere vari scopi come danni, effetti di stato, copertura del boss ecc. "
             "sulla base dei quali si può variare leggermente la CR ma non devono mai dominare o si perde il senso del boss."
         )
